@@ -20,7 +20,7 @@ This is a short document containing a bunch of links related to my talk on flexa
 
 * [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)
 
-  Another successful mathematician, Tukey is credited for inventing the term "bit".
+  Another notable mathematician, Tukey is credited for inventing the term "bit".
 
 **More information** 
 
