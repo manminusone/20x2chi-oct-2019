@@ -24,7 +24,7 @@ This is a short document containing a bunch of links related to my talk on flexa
 
 **More information** 
 
-* [Martin Gardner's article on flexagons](https://www.maa.org/sites/default/files/pdf/pubs/focus/Gardner_Hexaflexagons12_1956.pdf)
+* [Martin Gardner's article on flexagons](https://www.maa.org/sites/default/files/pdf/pubs/focus/Gardner_Hexaflexagons12_1956.pdf) (PDF)
 
   This is the first description of flexagons that brought the attention of the general public to the geometric shapes.
 
