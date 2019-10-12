@@ -8,7 +8,7 @@ This is a short document containing a bunch of links related to my talk on flexa
 
 * [Arthur Stone](https://en.wikipedia.org/wiki/Arthur_Harold_Stone)
 The creator of the flexagon was a considerable mathematician and topologist.
-[Bryant Tuckerman](https://en.wikipedia.org/wiki/Bryant_Tuckerman)
+* [Bryant Tuckerman](https://en.wikipedia.org/wiki/Bryant_Tuckerman)
 One of the members of the "flexagon committee", Tuckerman eventually worked on the Data Encryption Standard (DES).
 * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
 Certainly the most successful of the four committee members, Feynman won the Nobel prize in 1965.
