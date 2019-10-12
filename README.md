@@ -1,6 +1,6 @@
-**Bibliography 
-20x2 Chicago 
-October 12, 2019**
+### Bibliography 
+#### 20x2 Chicago
+#### October 12, 2019
 
 This is a short document containing a bunch of links related to my talk on flexagons that was given at the [20x2 Chicago](http://20x2chi.org/) event in October 2019.
 
