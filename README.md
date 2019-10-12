@@ -38,6 +38,6 @@ This is a short document containing a bunch of links related to my talk on flexa
 
 * [Mobile phone app to put a picture on a flexagon](https://christianp.github.io/hexaflexagon/)
 
-Use your face! Use someone else's face! And other things!
+  Use your face! Use someone else's face! And other things!
 
 > Written with [StackEdit](https://stackedit.io/).
