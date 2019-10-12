@@ -15,6 +15,11 @@ Certainly the most successful of the four committee members, Feynman won the Nob
 * [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)
 Another successful mathematician, Tukey is credited for inventing the term "bit".
 
+**Articles**
+
+* [Martin Gardner's original flexagons article](https://www.maa.org/sites/default/files/pdf/pubs/focus/Gardner_Hexaflexagons12_1956.pdf) (PDF)
+The column that introduced flexagons to the scientific community at large.
+
 **More information** 
 
 * [Flexagons at Wikipedia](https://en.wikipedia.org/wiki/Flexagon)
